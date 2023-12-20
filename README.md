@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chirumi
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning HTML, CSS, JS and MERN stack using TheOdin Project curriculum
-- 💞️ I’m looking forward to a career in tech as a full stack developer
 - 📫 How to reach me: kirittoes@gmail.com
 
 <!---
